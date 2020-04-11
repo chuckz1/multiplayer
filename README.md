@@ -1,2 +1,2 @@
 # multiplayer
-First multiplyaer game
+First multiplayer game
